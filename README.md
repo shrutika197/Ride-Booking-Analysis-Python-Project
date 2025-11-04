@@ -27,7 +27,6 @@ Data Analysis | ETL | Insight Generation | Correlation Analysis | Dashboard Desi
 - 📊 `Dataset` → Excel dataset used  
 
 ## 👩‍💻 Author
-
 **Shrutika Kole**  
 Data Analyst | Power BI Developer | Python Enthusiast  
-[LinkedIn Profile](www.linkedin.com/in/shrutikakole) 
+(www.linkedin.com/in/shrutikakole) 
