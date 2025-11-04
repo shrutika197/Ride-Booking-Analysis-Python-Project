@@ -31,6 +31,3 @@ Data Analysis | ETL | Insight Generation | Correlation Analysis | Dashboard Desi
 **Shrutika Kole**  
 Data Analyst | Power BI Developer | Python Enthusiast  
 [LinkedIn Profile](www.linkedin.com/in/shrutikakole) 
-**Shrutika Kole**  
-Data Analyst | Power BI Developer | Python Enthusiast  
-[LinkedIn Profile](https://linkedin.com)  *(Add your link here)*
